@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ionicacademy-chat-course-21a4f": {
+      "hosting": {
+        "app": [
+          "ionicacademy-chat-course-21a4f"
+        ]
+      }
+    }
+  }
+}
